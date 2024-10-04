@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Raihan Ahmed!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Deep+Learning+Researcher;Experienced+in+Web+Development+and+Computer+Vision;Always+Learning+and+Building+Innovative+AI+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer;AI+Enthusiast;Deep+Learning+and+CV+Specialist;Building+Innovative+AI+Solutions">
 </p>
 
 ---
@@ -10,52 +10,32 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 
-🌟 **Motto:** *"Exploring the frontiers of Artificial Intelligence, one project at a time."*
-
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 BSc in **Computer Science** from **AIUB**, CGPA: **3.99/4.0**
-- 🏆 **6x Dean's List Honours** and **Academic Scholarship** (up to 70%)
-- 💻 **Software Engineer** at **Vivasoft Limited** (.NET, C#, SQL)
-- 🧠 Passionate about **AI**, specializing in **Deep Learning** and **Computer Vision**
+I'm a **Software Engineer** at **Vivasoft Limited** with a strong passion for **Artificial Intelligence**. I specialize in **Deep Learning** and **Computer Vision**, with a proven track record of solving real-world problems.
+
+- 🎓 Graduated **Summa Cum Laude** with a **BSc in Computer Science** from **AIUB**, CGPA: **3.99/4.0**
+- 🏆 Achievements include **6 Dean's List Honours** and an **Academic Scholarship** (up to 70%)
+- 💻 Focused on building innovative AI solutions, with a solid foundation in **Web Development** using **.NET, C#, and SQL**
 
 ---
 
 ### 🛠️ Technical Skills:
-#### Programming Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-#### Frameworks and Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,git,github,vscode,tensorflow,pytorch,docker,sql,net,opencv&theme=dark" alt="Skills Icons">
 </p>
 
 ---
 
-### 🚀 Featured Projects:
-1. **[YOLOv8 Object Detection](https://github.com/Raihan4520/YOLOv8-Object-Detection)**
-   - Custom-trained YOLOv8 model for object detection using a dataset of images. Deployed on Google Colab.
-
-2. **[Operating System Projects](https://github.com/Raihan4520/Operating-System-Coursework)**
-   - Shell scripting projects and terminal-based file management in UNIX.
-
-3. **[Computer Vision Projects](https://github.com/Raihan4520/Computer-Vision-and-Pattern-Recognition)**
-   - Pattern recognition, image processing, and deep learning models for vision tasks.
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raihan4520&theme=radical&margin-w=15&row=2&column=3" alt="GitHub Trophies">
+</p>
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raihan4520&show_icons=true&theme=radical" alt="Raihan's GitHub stats" />
@@ -71,6 +51,14 @@
 
 ---
 
-### 📫 Contact:
-- **LinkedIn:** [Raihan Ahmed](https://www.linkedin.com/in/raihan4520)
-- **Email:** rayhan.ahmed4520@gmail.com
+### 📫 Let's Connect:
+Feel free to reach out! I’m always open to collaborations and innovative projects.
+
+- [LinkedIn](https://www.linkedin.com/in/raihan4520)
+- 📧 **Email:** rayhan.ahmed4520@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raihan4520&style=flat-square&color=blue" alt="Profile Views" />
+</p>
