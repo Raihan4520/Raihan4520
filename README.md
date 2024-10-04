@@ -1,8 +1,14 @@
+# Hey there! 👋 I'm Raihan Ahmed!
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Hi+There!👋+I'm+Raihan+Ahmed!;Software+Engineer+%7C+AI+Enthusiast+%7C+Deep+Learning+Researcher;Experienced+in+%7C+Web+Development+and+Computer+Vision;Always+Learning+%7C+Building+AI+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Deep+Learning+Researcher;Experienced+in+Web+Development+and+Computer+Vision;Always+Learning+and+Building+Innovative+AI+Solutions">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</p>
 
 🌟 **Motto:** *"Exploring the frontiers of Artificial Intelligence, one project at a time."*
 
@@ -18,19 +24,22 @@
 
 ### 🛠️ Technical Skills:
 #### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 #### Frameworks and Tools:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-3776AB?style=flat-square&logo=yolo&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
