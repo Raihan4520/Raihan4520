@@ -1,7 +1,5 @@
-# Hi there! 👋 I'm Raihan Ahmed!
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Deep+Learning+Researcher;Experienced+in+%7C+Web+Development+and+Computer+Vision;Always+Learning+%7C+Building+AI+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Hi+There!👋🏻+I'm+Raihan+Ahmed!;Software+Engineer+%7C+AI+Enthusiast+%7C+Deep+Learning+Researcher;Experienced+in+%7C+Web+Development+and+Computer+Vision;Always+Learning+%7C+Building+AI+Solutions">
 </p>
 
 ---
