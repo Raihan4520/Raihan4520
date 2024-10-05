@@ -118,6 +118,10 @@
 
 ---
 
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=grow_out_in&quoteCategory=programming">
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raihan4520&style=for-the-badge&color=fab002" alt="Profile Views" />
 </p>
