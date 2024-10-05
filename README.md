@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/5d915df7-251a-45db-b1e8-9f8f42e8301c"  alt="About Me GIF" width="600px">
 </p>
 
+![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/24b641f1-a7bc-44e2-944f-41872409ecac)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer;AI+Enthusiast;Deep+Learning+and+CV+Specialist;Building+Innovative+AI+Solutions">
 </p>
