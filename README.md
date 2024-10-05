@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/d71ff5db-a753-4031-989e-13171ac0a7de)"  alt="About Me GIF" width="180px">
+</p>
+
 ![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/d71ff5db-a753-4031-989e-13171ac0a7de)
 
 <p align="center">
