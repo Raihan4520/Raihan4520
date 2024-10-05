@@ -13,25 +13,18 @@
     <td width="20%">
       <p align="center">
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-        <b>About Me:</b>
+<!--         <b>About Me:</b> -->
+        $${\color{f7d707}About Me}$$
       </p>
     </td>
     <td width="80%">
       <p align="left">
-<!--         <h3>About Me:</h3> -->
         <p>
-  I am a <strong>Software Engineer</strong> at <strong>Vivasoft Limited</strong> with a deep passion for <strong>Artificial Intelligence</strong>, specializing in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>. Additionally, I have extensive experience in <strong>Web Development</strong>.
-</p>
-      <p>💻 Full-time <strong>Web Developer</strong> focused on backend with <strong>.NET stack</strong>.</p>
-      <p>🎓 Graduated with a <strong>BSc in CSE</strong> from <strong>AIUB</strong> with an impressive <strong>CGPA of 3.99/4.0.</strong></p>
-      <p>🏆 Achievements include <strong>6x Dean's List Honours</strong> and an <strong>Academic Scholarship</strong> (up to 70%).</p>
-<!--         <p>
-          I am a <strong>Software Engineer</strong> at <strong>Vivasoft Limited</strong> with a strong passion for <strong>Artificial Intelligence</strong>.
-          I specialize in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>. I am an experienced <strong>Web Developer</strong>.
+          I am a <strong>Software Engineer</strong> at <strong>Vivasoft Limited</strong> with a deep passion for <strong>Artificial Intelligence</strong>, specializing in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>. Additionally, I have extensive experience in <strong>Web Development</strong>.
         </p>
-      <p>🎓 Graduated <strong>Summa Cum Laude</strong> with a <strong>BSc in Computer Science</strong> from <strong>AIUB</strong>, CGPA: 3.99/4.0</p>
-      <p>🏆 Achievements include <strong>6 Dean's List Honours</strong> and an <strong>Academic Scholarship</strong> (up to 70%)</p>
-      <p>💻 Focused on building innovative AI solutions, with a solid foundation in <strong>Web Development</strong> using <strong>.NET, C#</strong>, and <strong>SQL</strong></p> -->
+        <p>💻 Full-time <strong>Web Developer</strong> focused on backend with <strong>.NET stack</strong>.</p>
+        <p>🎓 Graduated with a <strong>BSc in CSE</strong> from <strong>AIUB</strong> with an impressive <strong>CGPA of 3.99/4.0.</strong></p>
+        <p>🏆 Achievements include <strong>6x Dean's List Honours</strong> and an <strong>Academic Scholarship</strong> (up to 70%).</p>
       </p>
     </td>
   </tr>
@@ -41,49 +34,49 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/cpp//" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp//" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://deviconapi.vercel.app/dotnet?version=plain-wordmark&size=60"/>
+    <img src="https://deviconapi.vercel.app/dotnet?version=plain-wordmark&size=50"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://deviconapi.vercel.app/tensorflow?version=original&size=60"/>
+    <img src="https://deviconapi.vercel.app/tensorflow?version=original&size=50"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://deviconapi.vercel.app/pytorch?version=original&size=60"/>
+    <img src="https://deviconapi.vercel.app/pytorch?version=original&size=50"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://deviconapi.vercel.app/anaconda?version=original&size=60"/>
+    <img src="https://deviconapi.vercel.app/anaconda?version=original&size=50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://deviconapi.vercel.app/github?theme=dark&size=60"/>
+    <img src="https://deviconapi.vercel.app/github?theme=dark&size=50"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="50" height="50"/>
   </a>
 </p>
 
@@ -126,5 +119,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raihan4520&style=flat-square&color=fab002" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Raihan4520&style=for-the-badge&color=fab002" alt="Profile Views" />
 </p>
