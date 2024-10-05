@@ -1,6 +1,12 @@
 # Hey there! 👋 I'm Raihan Ahmed!
 
 <p align="center">
+  <img src="![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/d78e1000-47f1-4588-8528-5e246fad29da)" alt="GIF" width="200px">
+</p>
+
+<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer;AI+Enthusiast;Deep+Learning+and+CV+Specialist;Building+Innovative+AI+Solutions">
 </p>
 
@@ -79,6 +85,7 @@ I'm a **Software Engineer** at **Vivasoft Limited** with a strong passion for **
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raihan4520&theme=radical&margin-w=15&row=1&column=6" alt="GitHub Trophies">
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=Raihan4520&theme=radical&margin-w=5&no-frame=true&row=1&column=6" alt="GitHub Trophies"> -->
 </p>
 
 ---
