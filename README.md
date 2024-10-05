@@ -4,6 +4,8 @@
 
 ![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/d71ff5db-a753-4031-989e-13171ac0a7de)
 
+![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/4932a588-82d7-4705-99ff-273964d2ec75)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer;AI+Enthusiast;Deep+Learning+and+CV+Specialist;Building+Innovative+AI+Solutions">
 </p>
