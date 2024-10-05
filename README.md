@@ -1,5 +1,3 @@
-# Hey there! 👋 I'm Raihan Ahmed!
-
 <p align="center">
   <img src="![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/d78e1000-47f1-4588-8528-5e246fad29da)" alt="GIF" width="300px">
 </p>
@@ -10,18 +8,28 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
-
----
-
-### 👨‍💻 About Me:
-I'm a **Software Engineer** at **Vivasoft Limited** with a strong passion for **Artificial Intelligence**. I specialize in **Deep Learning** and **Computer Vision**, with a proven track record of solving real-world problems.
-
-- 🎓 Graduated **Summa Cum Laude** with a **BSc in Computer Science** from **AIUB**, CGPA: **3.99/4.0**
-- 🏆 Achievements include **6 Dean's List Honours** and an **Academic Scholarship** (up to 70%)
-- 💻 Focused on building innovative AI solutions, with a solid foundation in **Web Development** using **.NET, C#, and SQL**
+<table>
+  <tr>
+    <td width="20%">
+      <p align="center">
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+        About Me:
+      </p>
+    </td>
+    <td width="80%">
+      <p align="left">
+<!--         <h3>About Me:</h3> -->
+        <p>
+          I'm a <strong>Software Engineer</strong> at <strong>Vivasoft Limited</strong> with a strong passion for <strong>Artificial Intelligence</strong>.
+          I specialize in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>, with a proven track record of solving real-world problems.
+        </p>
+      <p>🎓 Graduated <strong>Summa Cum Laude</strong> with a <strong>BSc in Computer Science</strong> from <strong>AIUB</strong>, CGPA: 3.99/4.0</p>
+      <p>🏆 Achievements include <strong>6 Dean's List Honours</strong> and an <strong>Academic Scholarship</strong> (up to 70%)</p>
+      <p>💻 Focused on building innovative AI solutions, with a solid foundation in <strong>Web Development</strong> using <strong>.NET, C#</strong>, and <strong>SQL</strong></p>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
