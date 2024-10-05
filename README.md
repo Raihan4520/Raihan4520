@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4932a588-82d7-4705-99ff-273964d2ec75"  alt="About Me GIF" width="600px">
+  <img src="https://github.com/user-attachments/assets/5d915df7-251a-45db-b1e8-9f8f42e8301c"  alt="About Me GIF" width="600px">
 </p>
-
-![GitHub_Greeting_Raihan](https://github.com/user-attachments/assets/5d915df7-251a-45db-b1e8-9f8f42e8301c)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6D98E7&lines=Software+Engineer;AI+Enthusiast;Deep+Learning+and+CV+Specialist;Building+Innovative+AI+Solutions">
