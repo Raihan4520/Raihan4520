@@ -23,8 +23,8 @@
           I am a <strong>Software Engineer</strong> at <strong>Vivasoft Limited</strong> with a deep passion for <strong>Artificial Intelligence</strong>, specializing in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>. Additionally, I have extensive experience in <strong>Web Development</strong>.
         </p>
         <p>💻 Full-time <strong>Web Developer</strong> focused on backend with <strong>.NET stack</strong>.</p>
-        <p>🎓 Graduated with a <strong>BSc in CSE</strong> from <strong>AIUB</strong> with an impressive <strong>CGPA of 3.99/4.0.</strong></p>
-        <p>🏆 Achievements include <strong>6x Dean's List Honours</strong> and an <strong>Academic Scholarship</strong> (up to 70%).</p>
+        <p>🎓 Graduated with a <strong>BSc in CSE</strong> from <strong>AIUB</strong> with an impressive <strong>CGPA of 3.99 out of 4.0.</strong></p>
+        <p>🏆 Achievements include <strong>Summa Cum Laude</strong> (Gold Medal), <strong>6x Dean's List Honours</strong> and <strong>Academic Scholarship</strong> (up to 70%).</p>
       </p>
     </td>
   </tr>
