@@ -13,8 +13,8 @@
     <td width="20%">
       <p align="center">
         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<!--         <b>About Me:</b> -->
-        $${\color{f7d707}About Me}$$
+        <!-- <b>About Me:</b> -->
+        $$\color{#f7d707}{\text{About Me}}$$
       </p>
     </td>
     <td width="80%">
@@ -99,13 +99,13 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" style="width: 100%; vertical-align: top;">
       <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Raihan4520&theme=onedark&margin-w=5&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
       </p>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" style="width: 100%; vertical-align: top;">
       <p align="center">
